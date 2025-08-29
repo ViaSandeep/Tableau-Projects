@@ -40,7 +40,9 @@ Built to help HR teams monitor key metrics, analyze trends, and make informed, d
 ---
 
 ## 📷 Dashboard Preview  
-HR Resources.jpg  
+ ![HR Details](https://github.com/user-attachments/assets/10c1b0f8-640f-42be-8732-92eb31e24f94)
+![HR Resources](https://github.com/user-attachments/assets/b61a5974-3c4d-48b1-b114-d0397bdf3105)
+
   
 
 ---
