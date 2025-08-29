@@ -40,7 +40,10 @@ Built to help HR teams monitor key metrics, analyze trends, and make informed, d
 ---
 
 ## 📷 Dashboard Preview  
-Tableau-Projects/HR Details.jpg
+
+[Overview Page](images/overview.jpg)  
+[Employee List Page](images/employee_list.jpg)
+
 
   
 
