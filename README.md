@@ -40,8 +40,8 @@ Built to help HR teams monitor key metrics, analyze trends, and make informed, d
 ---
 
 ## 📷 Dashboard Preview  
-![Overview Page](HR Reso)  
-![Employee List Page](screenshot2.png)  
+HR Resources.jpg  
+  
 
 ---
 
